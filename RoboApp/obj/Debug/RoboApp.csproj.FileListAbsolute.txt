@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\AcademiaDoProgramador\Robo\RoboApp\bin\Debug\RoboApp.exe.config
+C:\Users\Lucas\Documents\AcademiaDoProgramador\Robo\RoboApp\bin\Debug\RoboApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\Robo\RoboApp\bin\Debug\RoboApp.pdb
+C:\Users\Lucas\Documents\AcademiaDoProgramador\Robo\RoboApp\obj\Debug\RoboApp.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\Robo\RoboApp\obj\Debug\RoboApp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\AcademiaDoProgramador\Robo\RoboApp\obj\Debug\RoboApp.exe
+C:\Users\Lucas\Documents\AcademiaDoProgramador\Robo\RoboApp\obj\Debug\RoboApp.pdb
